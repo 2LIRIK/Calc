@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Calc/static/css/main.e4bb5f02.css",
+    "main.js": "/Calc/static/js/main.54df1317.js",
+    "static/js/453.ad6eb26e.chunk.js": "/Calc/static/js/453.ad6eb26e.chunk.js",
+    "index.html": "/Calc/index.html",
+    "main.e4bb5f02.css.map": "/Calc/static/css/main.e4bb5f02.css.map",
+    "main.54df1317.js.map": "/Calc/static/js/main.54df1317.js.map",
+    "453.ad6eb26e.chunk.js.map": "/Calc/static/js/453.ad6eb26e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e4bb5f02.css",
+    "static/js/main.54df1317.js"
+  ]
+}
